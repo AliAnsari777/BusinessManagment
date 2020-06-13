@@ -1,0 +1,17 @@
+/* CSS Document */
+table, tr, td, th{
+	border:solid 1px #000000;
+	border-collapse:collapse;
+	direction:rtl;
+	margin-left:5px;
+	}
+#sell{
+	float: right;
+	text-align: center;
+	width: 40%;
+	}
+#buy{
+	float: left;
+	text-align: center;
+	width: 40%;
+}
